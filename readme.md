@@ -1,3 +1,6 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/darkterminal/twigniter) [![GitHub issues](https://img.shields.io/github/issues/darkterminal/twigniter)](https://github.com/darkterminal/twigniter/issues) [![GitHub forks](https://img.shields.io/github/forks/darkterminal/twigniter)](https://github.com/darkterminal/twigniter/network) [![GitHub stars](https://img.shields.io/github/stars/darkterminal/twigniter)](https://github.com/darkterminal/twigniter/stargazers) [![GitHub license](https://img.shields.io/github/license/darkterminal/twigniter)](https://github.com/darkterminal/twigniter/blob/master/license.txt) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fddarkterminal)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fdarkterminal%2Ftwigniter) ![GitHub repo size](https://img.shields.io/github/repo-size/darkterminal/twigniter) ![GitHub search hit counter](https://img.shields.io/github/search/darkterminal/twigniter/twigniter) ![GitHub All Releases](https://img.shields.io/github/downloads/darkterminal/twigniter/total) ![GitHub issues](https://img.shields.io/github/issues-raw/darkterminal/twigniter) ![GitHub pull request check contexts](https://img.shields.io/github/status/contexts/pulls/darkterminal/twigniter/1) ![GitHub contributors](https://img.shields.io/github/contributors/darkterminal/twigniter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/darkterminal/twigniter)
+-----
+
 ## What is Twigniter :fireworks:
 
 Twigniter is a CodeIgniter Application Development Framework - a Boilerplate - for people
@@ -13,7 +16,7 @@ for a given task.
 - Use All PHP Built-In Functions **Inside Twig Template**
 - Twig Functions
 - Twig Filters
-- Autoload Defined User Contants (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/core/Betta_Controller.php#L56)
+- Autoload Defined User Constants (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/core/Betta_Controller.php#L56)
 - Autoload Defined Functions (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/helpers/app_helper.php)
 - Autoload Defined Filters (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/helpers/app_filters.php)
 - Symfony VarDumper: Using `debug($data, $die = false)`
