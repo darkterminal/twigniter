@@ -13,9 +13,9 @@ for a given task.
 - Use All PHP Built-In Functions **Inside Twig Template**
 - Twig Functions
 - Twig Filters
-- Autoload Defined User Contants (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/applications/core/Betta_Controller.php#L32)
-- Autoload Defined Functions (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/applications/helpers/app_helper.php)
-- Autoload Defined Filters (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/applications/helpers/app_filters.php)
+- Autoload Defined User Contants (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/core/Betta_Controller.php#L56)
+- Autoload Defined Functions (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/helpers/app_helper.php)
+- Autoload Defined Filters (Helper) [See](https://github.com/darkterminal/twigniter/blob/master/application/helpers/app_filters.php)
 - Symfony VarDumper: Using `debug($data, $die = false)`
 
 ### Changelog and New Features
