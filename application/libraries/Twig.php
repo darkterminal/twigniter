@@ -4,7 +4,6 @@ use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 use Twig\TwigFilter;
 use Twig\TwigFunction;
-use Twig\TwigFunction\DebugExtension;
 /**
  * Part of CodeIgniter Simple and Secure Twig
  *

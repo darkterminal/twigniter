@@ -1,5 +1,20 @@
 <?php
 
+/**
+ * Twig Function Helper
+ *
+ * Create your own function, Twigniter will automaticly load your own function
+ *
+ * @category   Helper
+ * @package    App_Function
+ * @author     Imam Ali Mustofa <iam@betatdevindonesia.com>
+ * @author     Roy Alkina <darkterminal@pm.me>
+ * @copyright  2020 Betta Dev Indonesia
+ * @license    MIT License
+ * @version    Release: v1.0
+ * @link       http://bettadevindonesia.com
+ */
+
 use Symfony\Component\VarDumper\Cloner\VarCloner;
 use Symfony\Component\VarDumper\Dumper\CliDumper;
 use Symfony\Component\VarDumper\Dumper\HtmlDumper;
