@@ -1,0 +1,23 @@
+{% extends 'layout/default.twig' %}
+
+{% block title %}Welcome to CodeIgniter{% endblock %}
+
+{% block content %}
+	<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Use All PHP Built-In Functions</li>
+        <li>Twig Functions</li>
+        <li>Twig Filters</li>
+        <li>Autoload Defined User Contants (Helper) <code>applications/core/Betta_Controller.php#L32</code></li>
+        <li>Autoload Defined Functions (Helper) <code>applications/helpers/app_helper.php</code></li>
+        <li>Autoload Defined Filters (Helper) <code>applications/helpers/app_filters.php</code></li>
+        <li>
+            Symfony VarDumper: Using <code>debug($data, $die = false)</code> <br>
+            Example:
+            {% set data = range('a','r') %}
+            {{ debug(data) }}
+        </li>
+    </ul>
+{% endblock %}
