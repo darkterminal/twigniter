@@ -1,8 +1,8 @@
 {
-	"description": "The CodeIgniter framework",
-	"name": "codeigniter/framework",
+	"description": "The Twigniter Boilerplate",
+	"name": "twigniter/codeigniter",
 	"type": "project",
-	"homepage": "https://codeigniter.com",
+	"homepage": "https://github.com/darkterminal/twigniter",
 	"license": "MIT",
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
