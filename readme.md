@@ -36,12 +36,18 @@ issues, as well as missing features.
 
 ### Installation
 
+**Composer**
+
+```bash
+$ composer create-project twigniter/codeigniter
+```
+
 **Manual**
 
 ```bash
 $ git clone https://github.com/darkterminal/twigniter.git
 ```
-// or
+or
 ```bash
 $ git clone git@github.com:darkterminal/twigniter.git
 ```
